@@ -1,11 +1,11 @@
 # Apache Pulsar Hello World Assignment
 
-## Create a simple "Hello World" example using one of the following streaming platforms:
+### Create a simple "Hello World" example using one of the following streaming platforms:
 1. Apache Pulsar
 2. RabbitMQ
 3. Similar platforms
 
-## Assignment Deliverables
+### Assignment Deliverables
  
 1. Video Recording:
    - Create a video demonstration of your "Hello World" project.
